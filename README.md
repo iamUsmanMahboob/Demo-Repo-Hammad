@@ -1,2 +1,2 @@
-# Demo-Repo
-I am making this repo just for the testing purpose.
+# HTML Pages
+Here I will save my HTML pages for the learninng purposes
